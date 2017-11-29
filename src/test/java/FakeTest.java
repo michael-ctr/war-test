@@ -6,7 +6,7 @@ import org.junit.Test;
 public class FakeTest {
     @Test
     public void testStuff() {
-        System.out.println("test stuff");
+        System.out.println("test stuff uh oh");
     }
 
 }
